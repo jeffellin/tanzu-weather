@@ -11,6 +11,6 @@ spec:
       value: registry.gcp.ellin.net/tanzu-weather
   source:
     git:
-      url: https://github.com/sample-accelerators/spring-petclinic/
+      url: https://github.com/jeffellin/tanzu-weather
       ref:
-        branch: tap-beta3
+        branch: main
