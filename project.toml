@@ -1,3 +1,6 @@
 [[ build.env ]]
   name = 'BP_DOTNET_PROJECT_PATH'
   value = './src'
+[[ build.env ]]
+  name = 'BP_LIVE_RELOAD_ENABLED'
+  value = 'true'
