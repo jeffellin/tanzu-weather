@@ -8,7 +8,7 @@ namespace Sample
 
         public int TemperatureC { get; set; }
 
-        public int Temperature => 32 + (int)(TemperatureC / 0.5556);
+        public int TemperatureZ => 32 + (int)(TemperatureC / 0.5556);
 
         public string Summary { get; set; }
     }
