@@ -3,7 +3,7 @@ kind: Workload
 metadata:
   name: tanzu-weather
   labels:
-    apps.tanzu.vmware.com/workload-type: web
+    apps.tanzu.vmware.com/workload-type: web-bp
     app.kubernetes.io/part-of: tanzu-weather
 spec:
   params:
